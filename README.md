@@ -9,7 +9,7 @@ This GitHub repository is a curated collection of my work and experiences, demon
 ## Featured Projects
 
 ###  Undergraduate thesis: Firm's capital mobility as a source of bargaining power in an extractive state
-Code: 
+Code: Replication-Code-Pooled PCI Analysis.R
 
 Objectives: Quantify the additional effect of bribe payment on outcomes of public services for firms with capital mobility.
 
